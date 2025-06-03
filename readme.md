@@ -1,5 +1,5 @@
 # 💫 About Me:
-* 🌱 I'm currently working on: AI-based tools (Plagiarism Checker, Humanizer), MERN stack projects, and Blockchain apps  <br>* 🤝 I'm looking to collaborate on: LLM-powered applications, MLOps pipelines, and decentralized web projects  <br>* ❓ I'm looking for help with: Smart Contract development and advanced model optimization  <br>* 📚 I'm currently learning: Blockchain development, Hugging Face Transformers, and system design  <br>* 💬 Ask me about: MLOps, LLMs, MERN Stack, and automating ML workflows  <br>* 😄 Fun fact: I enjoy building side projects that mix AI with real-world utility (and I sometimes debug code in my dreams!)<br>
+  * 🌱 I'm currently working on: AI-based tools (Plagiarism Checker, Humanizer), MERN stack projects, and Blockchain apps  <br>* 🤝 I'm looking to collaborate on: LLM-powered applications, MLOps pipelines, and decentralized web projects  <br>* ❓ I'm looking for help with: Smart Contract development and advanced model optimization  <br>* 📚 I'm currently learning: Blockchain development, Hugging Face Transformers, and system design  <br>* 💬 Ask me about: MLOps, LLMs, MERN Stack, and automating ML workflows  <br>* 😄 Fun fact: I enjoy building side projects that mix AI with real-world utility (and I sometimes debug code in my dreams!)<br>
 
 
 ## 🌐 Socials:
