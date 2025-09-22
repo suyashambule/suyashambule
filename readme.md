@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Graduated in **Data Science, AI, and Digital Business**
+- 🎓 Graduated in **Computer Science**
 - 🔥 Passionate about **Python, ML, Deep Learning, NLP, LLM applications**, and **Computer Vision**
 - 🧑‍💻 Worked on projects in **healthcare, automotive, and financial risk analytics**
 - 🌱 Exploring **Groq LLMs**, **LangChain agents**, and **edge AI deployment**
